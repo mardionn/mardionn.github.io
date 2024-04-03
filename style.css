@@ -433,6 +433,7 @@ footer li {
 
     .sticky-top {
         overflow: hidden;
+        /* padding-right: 330px; */
     }
 
     .timeline li .timeline-image {
@@ -476,4 +477,9 @@ footer li {
     .timeline li .timeline-panel::after {
         top: 31px;
     }
+
+    /* .sticky-top {
+        overflow: hidden;
+        padding-left: 330px;
+    } */
 }
